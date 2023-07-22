@@ -1,3 +1,18 @@
+A displayed number, representative of the current state value in the store
+A button to increment the value
+A button to decrement the value
+An input field for a custom value
+A button to submit the custom value
+Given the simplicity of the app, we can expect to build a component tree with only two components.
+
+App
+Counter
+Great! That gets the UI out of the way. But what about our Redux store? What kind of planning does it require?
+
+Establish the store.
+Build a reducer.
+Develop actions.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
